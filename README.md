@@ -14,6 +14,9 @@
 ### В данном репозитории вы найдете решенные мною тестовые задания и Pet Project's:
 
 1. [SQL](https://github.com/vavasya/SQL)
-2. Python ([решения алгоритмических задач](https://github.com/vavasya/python_algo), [парсеры](https://github.com/vavasya/Python_parser_kinopoisk-Docker-), и т.д.)    
-3. [ML Pet project's](https://github.com/vavasya/DS_pet_project)
-4. Yandex parktikum,[15 спринтов (DA,ML)](https://github.com/vavasya/yandex_praktikum)
+2. Python \
+  2.1 [решения алгоритмических задач](https://github.com/vavasya/python_algo)\
+  2.2 [парсер(BS4+dash+crawlera)](https://github.com/vavasya/Python_parser_kinopoisk-Docker-)\
+  2.3 [REST API ML модель с мониторингом (Flask+CatBoost+Prometheus+Grafana)](https://github.com/vavasya/Python_parser_kinopoisk-Docker-)  
+4. [DS Pet project's (Jupyter notebooks)](https://github.com/vavasya/DS_pet_project)
+5. Yandex parktikum,[15 прокетов (DA,DS)](https://github.com/vavasya/yandex_praktikum)
