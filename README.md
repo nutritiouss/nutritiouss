@@ -13,7 +13,7 @@
 
 ### В данном репозитории вы найдете решенные мною тестовые задания и Pet Project's:
 
-1. [SQL](https://github.com/vavasya/SQL)
+1. [SQL](https://github.com/vavasya/SQL) решения тестовых и прохождение курсов
 2. Python \
   2.1 [решения алгоритмических задач](https://github.com/vavasya/python_algo)\
   2.2 [парсер(BS4+dash+crawlera)](https://github.com/vavasya/Python_parser_kinopoisk-Docker-)\
