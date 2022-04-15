@@ -17,6 +17,6 @@
 2. Python \
   2.1 [решения алгоритмических задач](https://github.com/vavasya/python_algo)\
   2.2 [парсер(BS4+dash+crawlera)](https://github.com/vavasya/Python_parser_kinopoisk-Docker-)\
-  2.3 [REST API ML модель с мониторингом (Flask+CatBoost+Prometheus+Grafana)](https://github.com/vavasya/Python_parser_kinopoisk-Docker-)  
+  2.3 [REST API ML модель с мониторингом (Flask+CatBoost+Prometheus+Grafana)](https://github.com/vavasya/Flask_API_ML_classify)  
 4. [DS Pet project's (Jupyter notebooks)](https://github.com/vavasya/DS_pet_project)
 5. Yandex parktikum,[15 прокетов (DA,DS)](https://github.com/vavasya/yandex_praktikum)
